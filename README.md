@@ -1,4 +1,4 @@
-![Hi, I'm Shanmuga Priya (1)](https://user-images.githubusercontent.com/11372997/114360586-d1a95c80-9b92-11eb-9199-11ea6ebf3244.gif)
+![Hi, I'm Shanmuga Priya](https://user-images.githubusercontent.com/11372997/114383722-80f22d80-9bab-11eb-9c97-3d0fa40f2725.gif)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
@@ -42,6 +42,7 @@ Bash                     4 mins              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+> Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--
 **Shanmugapriya03/Shanmugapriya03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
