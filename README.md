@@ -1,7 +1,7 @@
 ![Hi, I'm Shanmuga Priya](https://user-images.githubusercontent.com/11372997/114383722-80f22d80-9bab-11eb-9c97-3d0fa40f2725.gif)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-159-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
