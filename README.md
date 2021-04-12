@@ -1,5 +1,7 @@
-### Hi there 👋
+![Hi, I'm Shanmuga Priya (1)](https://user-images.githubusercontent.com/11372997/114360586-d1a95c80-9b92-11eb-9199-11ea6ebf3244.gif)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **Shanmugapriya03/Shanmugapriya03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
