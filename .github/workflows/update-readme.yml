@@ -1,8 +1,13 @@
 name: Waka Readme
 
 on:
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log Level'
+        default: 'Warning'
   schedule:
-    # Runs at 12am IST
+    # Runs at 12am IST, every week Sunday
     - cron: '30 18 * * 0'
 
 jobs:
@@ -23,3 +28,5 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_LANGUAGE: "False"
+          
