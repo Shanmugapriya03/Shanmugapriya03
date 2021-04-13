@@ -1,10 +1,6 @@
 ![Hi, I'm Shanmuga Priya](https://user-images.githubusercontent.com/11372997/114503533-1a245100-9c4b-11eb-84a1-8417915a46ba.gif)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-164-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -31,13 +27,6 @@ Sunday       8 commits      █░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-💬 Programming Languages: 
-Java                     8 hrs 43 mins       █████████████████████░░░░   85.4% 
-Gherkin                  1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
-XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93% 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
-
 ```
 
 
