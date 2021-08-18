@@ -1,4 +1,4 @@
-![Hi, I'm Shanmuga Priya](https://user-images.githubusercontent.com/11372997/114503533-1a245100-9c4b-11eb-84a1-8417915a46ba.gif)
+![Hi, I'm Shanmuga Priya](https://user-images.githubusercontent.com/11372997/129910864-2785432b-adea-4e52-92eb-f9290c766e28.gif)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
