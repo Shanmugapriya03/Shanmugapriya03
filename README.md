@@ -28,16 +28,12 @@ Sunday       6 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   12 hrs 33 mins      █████████████████░░░░░░░░   69.05% 
-Java                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.64% 
-YAML                     1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.99% 
-Text                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0% 
-SQL                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 01/11/2021
+ Last Updated on 08/11/2021
 <!--END_SECTION:waka-->
 > Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--
